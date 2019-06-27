@@ -1,0 +1,37 @@
+body {
+  font-family: Algerian;
+}
+
+h1 {
+				background-color: #B3B9F2;
+				text-align: center;
+			}
+
+footer{
+	background-color: lightgrey;
+	text-align: right;
+}
+
+/* NAV BAR*/
+nav a:hover {
+    background-color:#B3B9F2 ;
+    font-style:bold;
+}
+
+nav a:active {
+    font-weight: bold;
+}
+
+nav a:visited {
+    color: black;
+}
+
+
+/* carousel*/
+.carousel-inner {
+    color:black;
+    display:flex;
+    align-items:center;
+    text-align: center;
+    font-size: 30px;
+}
